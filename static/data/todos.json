@@ -1,0 +1,22 @@
+[
+  {
+    "id":1,
+    "text": "Learn Svelte 5",
+    "done": false
+  },
+  {
+    "id":2,
+    "text": "Learn Angular 19",
+    "done": false
+  },
+  {
+    "id":3,
+    "text": "Learn Java 21",
+    "done": true
+  },
+  {
+    "id":4,
+    "text": "Learn Oracle 23ai",
+    "done": false
+  }
+]
